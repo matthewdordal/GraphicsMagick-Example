@@ -12,7 +12,7 @@ brew install ghostscript
 ## Execute from the Terminal
 
 ```
-node app --text="Confession Bear" > gm.html ; open gm.html
+node app --text="manatee meme" > gm.html ; open gm.html
 ```
 
-A gm.html file will be created and opened in the default browser.
+A gm.html file will be created and opened in the default browser that displays the image with text overlayed on it.
