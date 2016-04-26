@@ -9,6 +9,13 @@ brew install graphicsmagick
 brew install ghostscript
 ```
 
+## Install
+```
+git clone https://github.com/matthewdordal/GraphicsMagick-Example.git
+cd GraphicsMagick-Example
+npm install
+```
+
 ## Execute from the Terminal
 
 ```
