@@ -3,7 +3,7 @@ const gm = require('gm');
 
 const text = args.text;
 
-var test = gm('./images/confession-bear.png')
+var test = gm('./images/manatee.png')
   .resize(500, 500)
   .fontSize(20)
   .fill('white')
